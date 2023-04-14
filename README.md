@@ -33,3 +33,7 @@ conda activate ./env
 # for vscode
 .vscode/
 '''
+## install the requirements
+'''
+pip install -r requirements.txt
+'''
