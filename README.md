@@ -37,3 +37,13 @@ conda activate ./env
 '''
 pip install -r requirements.txt
 '''
+
+# make a new directory in git bash
+'''
+mkdir research_env
+'''
+
+## open the jupyter notebook in the new dir
+'''
+jupyter-notebook
+'''
